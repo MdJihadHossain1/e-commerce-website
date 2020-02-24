@@ -44,3 +44,9 @@ b{
     background-color: white;
     border-top: none;
 }
+.col-md-4{
+    padding: 10px 10px;
+}
+footer{
+    text-align: center;
+}
